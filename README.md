@@ -8,3 +8,7 @@
 - ◆ Hates what people mostly like :(
 - ◆ Little different than others
 - ◆ Likes fancy feelings
+
+
+### Spotify Status
+[![Spotify](https://warrayquipsome.vercel.app/api/spotify)](https://open.spotify.com/user/warrayquipsome)
