@@ -11,4 +11,4 @@
 
 
 ### Spotify Status
-[<img src="https://novatorem-seven-ashen.vercel.app/api/spotify" alt="YABOIWQ Spotify Playing" width="350" />](https://open.spotify.com/user/	31jon5wjazxpk7eteguj6vo3vrom)
+[<img src="https://novatorem-seven-ashen.vercel.app/api/spotify" alt="YABOIWQ Spotify Playing" width="350" />](https://open.spotify.com/user/31jon5wjazxpk7eteguj6vo3vrom?si=9f36bb4bed504653)
