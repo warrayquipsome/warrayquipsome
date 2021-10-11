@@ -11,4 +11,6 @@
 
 
 ### Spotify Status
-[<img src="https://now-playing-warrayquipsome.vercel.app/api/spotify" alt="YABOIWQ Is Listening To..." width="350" />](https://open.spotify.com/user/31jon5wjazxpk7eteguj6vo3vrom?si=9f36bb4bed504653)
+[![Spotify](https://YABOIWQ.vercel.app/api/spotify)](https://open.spotify.com/user/31jon5wjazxpk7eteguj6vo3vrom?si=1722aa4546ef45d4)
+
+
