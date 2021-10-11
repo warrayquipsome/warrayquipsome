@@ -10,7 +10,7 @@
 - ◆ Likes fancy feelings
 
 
-### Spotify Status
+### FAKE Spotify Status
 <table width="100%"> 
   <tr>
   <td width="50%">
