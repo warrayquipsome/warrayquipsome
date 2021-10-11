@@ -11,4 +11,4 @@
 
 
 ### Spotify Status
-[![Spotify](https://warrayquipsome.vercel.app/api/spotify)](https://open.spotify.com/user/warrayquipsome)
+[<img src="https://{VERCEL_DOMAIN}/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/warrayquipsome)
