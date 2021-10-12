@@ -16,7 +16,6 @@
 
 ![YABOIWQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=warrayquipsome&show_icons=true&theme=graywhite)
 
-
 <br/>
 <br/>
 
