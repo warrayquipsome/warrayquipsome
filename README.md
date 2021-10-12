@@ -14,8 +14,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/warrayquipsome/github-readme-activity-graph"><img alt="YABOIWQ's Activity Graph [DARK MODE]" src="https://activity-graph.herokuapp.com/graph?username=warrayquipsome&bg_color=0D1117&color=bcbcbc&line=bcbcbc&point=FFFFFF&hide_border=true" /></a>
-<a href="https://github.com/warrayquipsome/github-readme-activity-graph"><img alt="YABOIWQ's Activity Graph [LIGHT MODE]" src="https://activity-graph.herokuapp.com/graph?username=warrayquipsome&bg_color=F2EEE8&color=434343&line=434343&point=000000&hide_border=true" /></a>
+<a href="https://github.com/warrayquipsome/github-readme-activity-graph"><img alt="YABOIWQ's Activity Graph DARK MODE" src="https://activity-graph.herokuapp.com/graph?username=warrayquipsome&bg_color=0D1117&color=bcbcbc&line=bcbcbc&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/warrayquipsome/github-readme-activity-graph"><img alt="YABOIWQ's Activity Graph LIGHT MODE" src="https://activity-graph.herokuapp.com/graph?username=warrayquipsome&bg_color=F2EEE8&color=434343&line=434343&point=000000&hide_border=true" /></a>
 
 <br/>
 <br/>
