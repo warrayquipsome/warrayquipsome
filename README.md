@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/warrayquipsome/github-readme-activity-graph"><img alt="YABOIWQ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=warrayquipsome&bg_color=0D1117&color=a4a4a4&line=a4a4a4&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/warrayquipsome/github-readme-activity-graph"><img alt="YABOIWQ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=warrayquipsome&bg_color=0D1117&color=bcbcbc&line=bcbcbc&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
