@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/84565593/136684130-9bd59f62-bdb2-458f-ab3c-78d3fe5185b7.jpg"/>
 
 
-### My kind of styles are ![yeeeeee](https://user-images.githubusercontent.com/84565593/136873933-af614fc1-965e-4085-a179-46556447e29f.png)
+### My kind of styles are 🎃
 - ◆ A very playful boi
 - ◆ Likes creative stuffs
 - ◆ Hates what people mostly like :(
