@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/84565593/136684130-9bd59f62-bdb2-458f-ab3c-78d3fe5185b7.jpg"/>
 
 ### Badges
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ### My kind of styles are
 - ◆ A very playful boi
