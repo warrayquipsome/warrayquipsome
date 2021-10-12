@@ -9,16 +9,6 @@
 - ◆ Little different than others
 - ◆ Likes fancy feelings
 
-
-### FAKE Spotify Status
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31jon5wjazxpk7eteguj6vo3vrom)
-
-  </td>
-
 ### github stat
   <br/>
     <a href="https://github.com/warrayquipsome/github-readme-stats"><img alt="YABOIWQ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=warrayquipsome&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -34,3 +24,13 @@
 
 <br/>
 <br/>
+### FAKE Spotify Status
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31jon5wjazxpk7eteguj6vo3vrom)
+
+  </td>
+
+
