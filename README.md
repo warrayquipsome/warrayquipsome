@@ -11,10 +11,8 @@
 - ◆ Likes fancy feelings
 
 ### Github Stat
-<a href="https://github.com/warrayquipsome/github-readme-stats">
-<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrayquipsome&layout=compact)](https://github.com/warrayquipsome/github-readme-stats" /></a>
-
-![YABOIWQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=warrayquipsome&show_icons=true&theme=graywhite)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrayquipsome&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=warrayquipsome&show_icons=true&theme=graywhite" />
 
 <br/>
 <br/>
