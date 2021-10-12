@@ -35,8 +35,7 @@
 
   </td>
 
-    
-### something 
-<a href="https://novatorem.vercel.app/api/spotify/now-playing?open">
-    <img src="https://novatorem.vercel.app/api/spotify/now-playing" width="256" height="64" alt="Now Playing">`
+
+<a href="https://now-playing-joshlmao.vercel.app/now-playing?open">
+    <img src="https://now-playing-joshlmao.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
