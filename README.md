@@ -31,7 +31,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatoremm.warrayquipsome.vercel.app/api/spotify)](https://open.spotify.com/user/31jon5wjazxpk7eteguj6vo3vrom)
+&nbsp; <br> [![Spotify](https://now-playing-warrayquipsome.vercel.app/api/spotify)](https://open.spotify.com/user/31jon5wjazxpk7eteguj6vo3vrom)
 
   </td>
 
