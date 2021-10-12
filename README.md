@@ -24,6 +24,7 @@
 
 <br/>
 <br/>
+
 ### FAKE Spotify Status
 <table width="100%"> 
   <tr>
