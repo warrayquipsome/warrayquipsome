@@ -1,7 +1,6 @@
 <h1 align="center">Sup bro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, YABOIWQ here i just wanna say ima chase you with my knife 🌚🔪</h1>
 <img src="https://user-images.githubusercontent.com/84565593/136684130-9bd59f62-bdb2-458f-ab3c-78d3fe5185b7.jpg"/>
-
-
+<img src="https://discord.com/assets/af83ffc7860973be9b3a48124e9d3c25.svg"/>
 
 
 ### My kind of styles are
