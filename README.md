@@ -3,11 +3,10 @@
 
 
 
-- ◆ A very playful boi
-- ◆ Likes to be creative
-- ◆ Hates what people mostly like :/
-- ◆ Little different than others
-- ◆ Likes fancy feelings (OFC LA AIYO)
+- ◆ he/him
+- ◆ Jan 9
+- ◆ need starpugs
+- ◆ Asian / Malaysian
 
 ### Github Stat
 
