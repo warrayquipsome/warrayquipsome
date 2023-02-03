@@ -9,7 +9,6 @@
 - ◆ Asian / Malaysian
 
 ### Visitor Count
-Visitor count<br>
   <img src="https://profile-counter.glitch.me/warrayquipsome/count.svg" />
 </p>
 
